@@ -1,4 +1,5 @@
 import Foundation
+import OSLog
 
 public enum PrettyLoggerLevel: Int, Comparable, CaseIterable {
     case disable = 0
